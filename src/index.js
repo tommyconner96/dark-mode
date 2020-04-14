@@ -21,6 +21,7 @@ const App = () => {
   return (
     <div className="App">
       <Navbar />
+      hiyo
       <Charts coinData={coinData} />
     </div>
   );
